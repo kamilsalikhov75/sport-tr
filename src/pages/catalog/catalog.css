@@ -1,0 +1,14 @@
+.catalog__categories {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.catalog__link {
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 32px;
+  color: #000000;
+  margin-bottom: 20px;
+  text-decoration: none;
+}

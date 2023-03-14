@@ -1,0 +1,6 @@
+.products__block {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}

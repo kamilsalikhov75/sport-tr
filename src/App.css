@@ -1,0 +1,39 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 38px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+
+.button {
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 14px;
+  color: #ffffff;
+  background: #ff2929;
+  border: 1px solid #a5a5a5;
+  border-radius: 17px;
+  padding: 10px 30px;
+  text-transform: uppercase;
+  width: 100%;
+  cursor: pointer;
+}
+
+.text + .text {
+  margin-top: 20px;
+}
+
+.list {
+  margin-top: 10px;
+}
+
+.block {
+  min-height: calc(100vh - 67px - 165px - 60px);
+}

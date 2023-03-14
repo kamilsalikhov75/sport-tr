@@ -1,0 +1,4 @@
+.main__info-block + .main__info-block {
+  margin-top: 20px;
+}
+

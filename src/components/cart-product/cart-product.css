@@ -1,0 +1,37 @@
+.cart-product {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cart-product__img {
+  width: 90px;
+  height: 90px;
+}
+
+.cart-product__block {
+  display: flex;
+}
+
+.cart-product__block .cart-product__text {
+  font-weight: 700;
+  padding: 10px;
+  background-color: #ffffff;
+}
+
+.cart-product__button {
+  width: 30px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff2929;
+  border: none;
+  cursor: pointer;
+}
+
+.cart-product__delete-button{
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}

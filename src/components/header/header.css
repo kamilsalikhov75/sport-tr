@@ -1,0 +1,28 @@
+.header {
+  background-color: #ffffff;
+  margin-bottom: 30px;
+}
+
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__naivgation {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.header__link {
+  padding: 10px 30px;
+  background: #ff2929;
+  border: 1px solid #a5a5a5;
+  border-radius: 17px;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 14px;
+  color: #ffffff;
+  text-decoration: none;
+}

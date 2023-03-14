@@ -1,0 +1,18 @@
+.product__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+}
+
+.product__img {
+  max-width: 490px;
+  width: 100%;
+}
+
+.product__block {
+  max-width: 640px;
+}
+
+.product__text {
+  margin-top: 20px;
+}
